@@ -1,0 +1,8 @@
+{
+  "name": "Broomberg Pro - Home Services Reimagined",
+  "description": "A premium, end-to-end home services platform featuring real-time booking, standardized pricing, and an AI-driven service assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
